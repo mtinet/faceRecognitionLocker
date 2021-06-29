@@ -3,7 +3,7 @@
 ### [이우영 학생의 OPP링크](https://sites.google.com/ydp.hs.kr/202120710)  
 
 ```
-$ git clone https://github.com/subhamroy021/Facial-Recognition.git
+$ git clone https://github.com/mtinet/faceRecognitionLocker.git
 $ python -m pip install keyboard  #keyboard 설치하기
 $ python -m pip install opencv-python  #opencv 설치하기
 $ mkdir faces  #face폴더 생성하기 
