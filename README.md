@@ -6,6 +6,7 @@
 $ git clone https://github.com/mtinet/faceRecognitionLocker.git
 $ python -m pip install keyboard  #keyboard 설치하기
 $ python -m pip install opencv-python  #opencv 설치하기
+$ pip install opencv-contrib-python  #opencv 확장팩 설치하기
 $ mkdir faces  #face폴더 생성하기 
 ```
 
